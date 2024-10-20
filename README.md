@@ -1,2 +1,1 @@
-# dice-game
-simple dice game
+#prosty zegar
